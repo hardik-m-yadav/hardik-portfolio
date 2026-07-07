@@ -45,25 +45,25 @@ export const projects = [
     },
      {
         id: 5,
-        title: 'E-Commerce Platform',
-        description: 'Full-stack online shopping application with real-time inventory management, secure payment',
-        image: '/images/projects/project3.png',
-        category: 'Full Stack',
-        technologies: ['React', 'Node.js'],
+        title: "Hmy's Salon",
+        description: 'A modern and responsive salon website built using React.js + Vite + Tailwind CSS. This project showcases a premium UI for a salon business with smooth navigation, service sections, and a clean user experience.',
+        image: '/images/projects/salon.png',
+        category: 'UI Components',
+        technologies: ['React', 'TailwindCss'],
         metrics: '40% increase in conversion',
-        demoUrl: 'https://timetoprogram.com/projects',
-        githubUrl: 'https://github.com'
+        demoUrl: 'https://hmy-salon.vercel.app/',
+        githubUrl: 'https://github.com/hardik-m-yadav/hmy-salon.git'
     },
      {
         id: 6,
-        title: 'E-Commerce Platform',
-        description: 'Full-stack online shopping application with real-time inventory management, secure payment',
-        image: '/images/projects/project3.png',
+        title: 'Puja Connect',
+        description: 'PujaConnect is a full-stack web platform that connects users with verified pandits for Hindu rituals and ceremonies.',
+        image: '/images/projects/puja.png',
         category: 'Full Stack',
-        technologies: ['React', 'Node.js'],
+        technologies: ['React', 'Firebase', 'Tailwind'],
         metrics: '40% increase in conversion',
-        demoUrl: 'https://timetoprogram.com/projects',
-        githubUrl: 'https://github.com/hardik-m-yadav/Hmy-vegetables.git'
+        demoUrl: 'https://puja-connect-new-oqfa-tawny.vercel.app/',
+        githubUrl: 'https://github.com/hardik-m-yadav/puja-connect-new.git'
     },
     {
     id: 7,
