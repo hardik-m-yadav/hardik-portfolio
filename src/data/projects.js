@@ -75,6 +75,17 @@ export const projects = [
     metrics: 'Fast, responsive UI with optimized performance',
     demoUrl: 'https://roaring-fairy-b0fb15.netlify.app', 
     githubUrl: 'https://github.com/hardik-m-yadav/hmy-food'
+},
+    {
+    id: 8,
+    title: 'DevYatra – Modern Travel & Tourism Website',
+    description: 'Modern travel and tourism website built with React and Vite, featuring destination showcases, responsive design, smooth animations, and an engaging user experience.',
+    image: '/images/projects/devyatra.png',
+    category: 'Web Apps',
+    technologies: ['React', 'TailwindCss', 'Motion'],
+    metrics: '40% increase in conversion',
+    demoUrl: 'https://devyatra-zeta.vercel.app', 
+    githubUrl: 'https://github.com/hardik-m-yadav/devyatra'
 }
 
 ]
